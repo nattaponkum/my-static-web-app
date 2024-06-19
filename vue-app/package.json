@@ -2,8 +2,8 @@
   "name": "egat-pv-vue-app",
   "version": "0.1.0",
   "engines": {
-    "npm": ">=8.0.0 <9.0.0",
-    "node": ">=16.0.0 <17.0.0"
+    "npm": ">=6.14.10",
+    "node": ">=14.0.0"
   },
   "private": true,
   "scripts": {
